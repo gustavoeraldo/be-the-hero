@@ -2,7 +2,7 @@
   <img src=".github/logo.svg"></img>
 </p>
 
-> This work is from **OmniStack Week** by [Rocketseat](https://rocketseat.com.br/).
+> This work is from **OmniStack Week** by [Rocketseat](https://rocketseat.com.br/). With this kind of source, ONGs could get more attention and care from people.
 
 <p>
   <!-- <a href="(https://cdn.rawgit.com/IBMDecisionOptimization/docplex-doc/2.0.15/docs/mp/index.html)" target="_blank">
@@ -47,13 +47,25 @@ Build an application that can be used by ONGs to register what they do and their
 
 ## Login page
 
+This is where Ongs can login into the application using an ID generated once they've been registered.   
+
 <p align="center">
   <img src=".github/login.png"></img>
 </p>
 
 
+## Ongs registration
+
+If it's the organization's first time into this application, it must create a profile in the following page.  
+
+<p align="center">
+  <img src=".github/ong-registration.png"></img>
+</p>
+
+
 ## New cases register
 
+Once the ONG is logged in, this web app allows to create new cases - this cases are for the ONG's needs such as volunteers, financial resource, food or anything that could help the Organization get the objective done.   
 
 <p align="center">
   <img src=".github/new-case.png"></img>
@@ -62,13 +74,17 @@ Build an application that can be used by ONGs to register what they do and their
 
 ## Registered cases
 
+This area is a list of cases that have been registered. Here the ONG can see what is working progress. 
+
 <p align="center">
   <img src=".github/registered-cases.png"></img>
 </p>
 
 
-## Ongs registration
+## To do List
 
-<p align="center">
-  <img src=".github/ong-registration.png"></img>
-</p>
+- [ ] Mobile version.
+
+- [ ] Features testing.
+
+<!-- - [ ] Documentation, install and run description -->
