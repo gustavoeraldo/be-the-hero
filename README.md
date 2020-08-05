@@ -39,11 +39,32 @@
 
 Build an application that can be used by ONGs to register what they do and their  needs, so people would be able to help.
 
+
 ## Installation
 
+* **Express** for testing local hosting and many others features :
+```
+npm install express 
+```
+
+* **Nodemon** for monitoring. It saves a lot a time because restarts automatically your server once is updated:
+```
+npm install nodemon 
+``` 
+
+* **React** to build the frontend :
+
+```
+npx create-react-app-frontend
+```
 
 ## Run
 
+Go to the project file and write on terminal :
+
+```
+npm start
+```
 
 ## Login page
 
